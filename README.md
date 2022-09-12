@@ -1,2 +1,2 @@
 # git-github
-This is for training tutorial.
+This is for training tutorial by Pkem.
